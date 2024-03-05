@@ -226,3 +226,5 @@ DOCTYPE là dòng đầu tiên cần được khai báo trong mọi file HTML.
 * Sử dụng dấu ngắt dòng hợp lý, đảm bảo code dễ đọc
 * Đặt các thẻ đúng vị trí. Ví dụ: thẻ ```<li>``` luôn là con trực tiếp của thẻ ```<ul>```, ```<ol>```
 * Luôn nhớ sử dụng https cho các URL trong thuộc tính ```href```
+
+---
